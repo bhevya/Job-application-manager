@@ -1,2 +1,2 @@
 # Job-application-manager
-Hobby Project
+Side Project
