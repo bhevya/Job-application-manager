@@ -1,2 +1,2 @@
 # Job-application-manager
-Side Project
+Side Project (In Progress)
